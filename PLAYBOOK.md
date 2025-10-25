@@ -3,7 +3,7 @@
 
 # Benjamin Franklin
 
-This project is written in <<Python>> on <<Windows 10>>.
+This project is written in Python on Windows 10.
 
 ## How to compile
 
