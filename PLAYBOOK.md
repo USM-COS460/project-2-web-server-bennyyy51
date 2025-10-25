@@ -11,7 +11,7 @@ The project is written in python so there is no need for a compiler
 
 ## How to run
 
-1: download HTTPserver.py
+1: download HTTPserver.py and the www folder and place them in the directory
 
 2: open a terminal (tutorial will use windows command prompt)
 
